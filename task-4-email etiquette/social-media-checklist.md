@@ -1,4 +1,4 @@
-# As a responsible social media user, you should:#
+# As a responsible social media user, you should: #
 
 
 # Do’s #
