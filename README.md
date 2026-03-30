@@ -25,8 +25,11 @@ Description: Establishment of a foundational professional digital presence acros
 Deliverables:
 
 GitHub: Profile README with name, branch, year, and learning goals. https://github.com/TushitaPathak
+
 LinkedIn: Updated Education section.www.linkedin.com/in/tushita-pathak-a24a8239b
+
 Stackoverflow : Profile created for sharing and building knowledge.https://stackoverflow.com/users/edit/32542653
+
 Screenshots of all profiles are available in the task-2-portfolio/ folder.
 
 Task 3: Coding & Collaboration Platforms
