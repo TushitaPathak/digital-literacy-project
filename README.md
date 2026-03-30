@@ -10,18 +10,18 @@ Branch: CSE (AI & ML)
 
 Welcome to my Digital Literacy Ambassador project portfolio. This repository contains the complete set of five tasks that demonstrate my understanding and ability to promote digital literacy among my peers. Each task is designed to be a practical resource, from creating awareness materials to building a professional online presence.
 
-The project is structured to showcase competencies in visual communication, professional networking, collaborative tools, digital etiquette, and cybersecurity awareness. Below, you will find a structured overview of each task and links to the deliverables.
+The project is structured to showcase competencies in visual communication, professional networking, collaborative tools, digital etiquette, and cybersecurity awareness. Below, you will find a structured overview of each task.
 
 # Project Structure #
 
-The repository is organized into folders corresponding to each task. Click on the task titles to navigate to the respective folders.
+The repository is organized into folders corresponding to each task. I have attached links of my professional profiles of different platforms.
 
 
 # Task 1: Digital Literacy Awareness Infographic #
 
 Description: A one-page infographic designed to help batchmates understand the core concepts of digital literacy and its importance.
 
-Deliverable: A visual infographic made using Canva 
+Deliverable: A visual infographic made using Canva.
 
 Highlights: Covers three key topics: what digital literacy is, safe internet practices, and essential internet tools.
 
@@ -71,7 +71,7 @@ Part B (Checklist): A checklist with 5 Do's and 5 Don'ts for responsible social 
 Description: A research-based task to create an awareness resource about a specific cybercrime, including a prevention checklist for college students.
 Deliverables:
 
-Part A (Case Study): A 200 word case study on UPI Payment Fraud. (casestudy.md).
+Part A (Case Study): A 200 word case study on UPI Payment Fraud. (casestudy.pdf).
 
 Part B (Checklist): A "Stay Safe Online" checklist with 8+ prevention tips, including financial safety and reporting channels (prevention-checklist.md).
 
