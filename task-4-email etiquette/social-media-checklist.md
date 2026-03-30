@@ -1,7 +1,7 @@
 As a responsible social media user, you should:
 
 
-✅ Do’s
+ Do’s
 
 Think before posting
   Pause and ask: “Could this offend, mislead, or hurt someone?” Once it’s online, it can be hard to fully erase.
@@ -29,7 +29,7 @@ Take breaks and limit screen time
 
 
 
-❌ Don’ts
+ Don’ts
 
 Don’t overshare personal details
   Never post your full home address, ID/photo, bank details, OTPs, or exact home‑alone schedules.
