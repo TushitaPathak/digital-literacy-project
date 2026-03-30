@@ -20,7 +20,8 @@ The repository is organized into folders corresponding to each task. Click on th
 
 Description: A one-page infographic designed to help batchmates understand the core concepts of digital literacy and its importance.
 
-Deliverable: A visual infographic (e.g., a PDF or PNG export from Canva) located in the task-1-presentation/ folder.
+Deliverable: A visual infographic made using Canva located in the task-1-presentation/
+ folder.
 
 Highlights: Covers three key topics: what digital literacy is, safe internet practices, and email etiquette.
 
