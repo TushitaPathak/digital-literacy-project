@@ -40,18 +40,23 @@
 # Don’ts #
 
 - **Don’t overshare personal details**
+
   Never post your full home address, ID/photo, bank details, OTPs, or exact home‑alone schedules.
 
 - **Avoid sharing when emotions are high**
+
    what feels funny or “honest” in the moment can haunt you later.
 
 - **Don’t harass, bully, or troll**
+
   Don’t send abusive messages, body‑shame, or encourage hate against any individual or group.
 
 - **Don’t spam or over‑promote**
+
   Don’t bombard feeds with repeated ads, invites, or schemes; it damages your credibility and annoys followers.
 
 - **Don’t share others’ private content without consent**
-  Never post screenshots of DMs, private photos, or documents without permission, even if they’re “funny.”
+
+   Never post screenshots of DMs, private photos, or documents without permission, even if they’re “funny.”
 
   
